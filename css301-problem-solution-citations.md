@@ -1,5 +1,7 @@
 Sam Hopper
+
 Dr. Rubin CSS301C
+
 Problem & Solution Assignment
 
 # Bibliography
