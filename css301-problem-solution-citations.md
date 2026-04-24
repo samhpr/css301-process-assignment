@@ -1,8 +1,4 @@
-Sam Hopper
-
-Dr. Rubin CSS301C
-
-Problem & Solution Assignment
+Sam Hopper, Spring CSS301C, Problem & Solution Assignment
 
 # Bibliography
 
