@@ -14,4 +14,4 @@ Sam Hopper, Spring CSS301C, Problem & Solution Assignment
 
 [6] DevSpace, "devspace-sh," [Online]. Available: https://github.com/devspace-sh/devspace/. [Accessed 2 June 2026].
 
-[7] Aguilar, Steve, Informational Interview. 18 May 2026.
+[7] Aguilar, Steve. Personal Interview. 18 May 2026.
